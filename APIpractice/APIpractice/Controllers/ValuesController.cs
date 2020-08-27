@@ -24,7 +24,7 @@ namespace APIpractice.Controllers
             data.Add(new Data
             {
                 name = "李天才",
-                ename = "Tom"
+                ename = "Toms"
             });
             data.Add(new Data
             {
